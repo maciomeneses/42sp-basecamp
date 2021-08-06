@@ -72,4 +72,4 @@ Give a ⭐️ if this project helped you or if just you like it!
 
 ---
 
-This readme.md was inspired by [Amanda P. Pinha](https://github.com/appinha/42sp-piscine)
+This readme.md was inspired by [Amanda P. Pinha](https://github.com/appinha/)
